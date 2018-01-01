@@ -1,6 +1,6 @@
-# Hello World!
+#Hello World
 
-My name is alanxjcai. I use this chance for studying.
+I am alanxjcai. Change came from local.
 
 ## Welcome to GitHub Pages
 
